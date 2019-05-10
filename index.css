@@ -22,7 +22,7 @@ body {
 .bigItem {
   grid-area: 2 / 2 / 4 / 4;
   height: 90%;
-  width: 90%;
+  width: 98%;
   justify-self: center;
   align-self: center;
 }
