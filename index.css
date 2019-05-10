@@ -22,5 +22,5 @@ body {
 .bigItem {
   grid-row: 2 / 4;
   grid-column: 1 / 4;
-  grid-area: 2 / 1 / 5 / 4
+  /*grid-area: 2 / 1 / 5 / 4*/
 }
